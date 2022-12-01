@@ -20,3 +20,6 @@ For more details read the full article here:
 
 Or watch my Youtube video on this topic here:
 *(add the youtube video URL)*
+
+# Credits:
+- https://platform.mindee.com
